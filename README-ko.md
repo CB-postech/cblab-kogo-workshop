@@ -4,6 +4,12 @@
 
 Single-cell RNA-seq Analysis with R
 
+## 잠깐만요!
+
+이 리드미는 KOGO 워크샵 환경을 *세팅하는* 방법에 관련된 내용을 다루고 있습니다.
+혹시나 워크샵 *내용*에 관심이 있으신 거라면 (QC, Trajectory 분석 등등....),
+이곳 대신 [`markdown`](./markdown/README.md) 폴더 안의 마크다운 파일들을 살펴보시길 바랍니다.
+
 ## 강좌 소개
 
 이 프로젝트는 [한국유전체학회](https://www.kogo.or.kr/) 통계유전학워크샵의

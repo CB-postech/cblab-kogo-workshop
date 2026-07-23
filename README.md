@@ -2,6 +2,12 @@
 
 EN | [KO](./README-ko.md)
 
+## Please check!
+
+This README is about instructions for *setting up* the KOGO workshop.
+If you're here for the *contents* of the workshop (ex. quality control, trajectory inference, etc.),
+please check the markdown files in the [`markdown`](./markdown/README.md) folder.
+
 ## Introduction
 
 This is designed to serve about ~60 users for `[scRNA-seq basics #1] Understanding concepts and analysis` class

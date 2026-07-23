@@ -76,6 +76,9 @@ c.DockerSpawner.extra_host_config = { "network_mode": network_name }
 c.JupyterHub.hub_ip = "jupyterhub"
 c.JupyterHub.hub_port = 8081
 
+# TODO: change the default directory for jupyterlab users
+# so they don't get mislead to odd directories
+
 # 4. Container Management
 # Automatically remove stopped user containers
 c.JupyterHub.cleanup_servers = True
